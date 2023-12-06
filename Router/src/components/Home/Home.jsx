@@ -37,7 +37,7 @@ export default function Home() {
             </aside>
 
             <div className="grid  place-items-center sm:mt-20">
-                <img className="sm:w-96 w-48" src="src/assets/images-2.jpeg" alt="image2" />
+                <img className="sm:w-96 w-48" src="src/assets/five.jpeg" alt="image2" />
             </div>
 
             <h1 className="text-center text-2xl sm:text-5xl py-10 font-medium">Teach World! @Ansh Tech</h1>
